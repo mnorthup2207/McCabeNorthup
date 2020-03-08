@@ -9,7 +9,7 @@ I have also attached my personal the link to my personal portfolio, GitHub, and 
 Sincerely,
 McCabe Northup
 
-![image](public/images/readme.png)
+![image](src/images/readme.png)
 
 ## Link to Deployed Product
 https://mccabenorthup.herokuapp.com/
