@@ -3,7 +3,7 @@ import '../../css/normalize.css';
 import '../../css/skeleton.css';
 import '../../css/style.css';
 import Pic from '../../images/portfolio_pic3.jpg';
-import PDF from '../../pdf/McCabe_CV.pdf'
+import PDF from '../../pdf/McCabeNorthup_WebsiteCV.pdf'
 
 const About = () => {
     return (
