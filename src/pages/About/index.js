@@ -10,7 +10,7 @@ const About = () => {
         <>
             <div className="blurb row">
                 <div className="four columns">
-                    <a href="/password"><img className="rotateimg90" src={Pic} alt="New Zealand"/></a>
+                    <img className="portfolioPic" src={Pic} alt="New Zealand"/>
                 </div>
                     <div id="paraEl" className="six columns">
                         <div className="row">

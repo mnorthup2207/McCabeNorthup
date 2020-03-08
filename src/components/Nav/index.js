@@ -13,9 +13,6 @@ const Nav = () => {
             <div className="four columns">
                 <h4 className="hNav"><a href="/portfolio">Portfolio</a></h4>
             </div>
-            <div className="four columns">
-                <h4 className="hNav"><a href="/contact">Contact Me</a></h4>
-            </div>
         </div>
     );
 };

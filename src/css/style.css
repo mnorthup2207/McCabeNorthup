@@ -26,70 +26,16 @@ a:hover{
 .icon{
     margin-left: 1rem;
 }
-.rotateimg90{
+.portfolioPic{
     box-sizing: border-box;
     border: .2rem black solid;
     border-radius: .5rem;
     width: 100%;
-}
-/* Password.html */
-.formLabel{
-    width: 20rem;
-    margin-left: 7rem;
-}
-#myVideo {
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    right: 0;
-    position: fixed;
-}
-.passwordDiv{
-    background-color: white;
-    border-radius: .5rem;
-    display: none;
-    left: 35rem;
-    position: absolute;
-    top: 20rem;
-    width: 25rem;
-}
-#passSubmit {
-    margin-left: 7.5rem;
-}
-#passwordInput{
-    margin-left: 3rem;
-}
-/* portfolio.html */
-.portfolioPic{
-    width: 100%;
-}
-#portRow{
-    margin-top: 4rem;
-}
-#visit:hover{
-    border: solid black .2rem;
-    box-sizing: border-box;
-    border-radius: .5rem;
-    padding: 1rem;
-    font-weight: 600;
-}
-#nameInput, #emailInput, #detailsInput{
-    width: 100%;
-}
-#formDiv{
-    border-right: black solid .2rem;
-    box-sizing: border-box;
-    padding-right: 3rem;
-}
-#contactRow{
-    margin-left: 12rem;
 }
 /* media */
 @media screen and (max-width: 800px) {
     #paraEl {
         margin-top: 10rem;
     }
-    #portRow{
-        margin: 10%;
-    }
-  }
+}
+/* With Material UI */
