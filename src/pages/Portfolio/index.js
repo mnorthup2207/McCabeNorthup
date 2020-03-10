@@ -71,7 +71,7 @@ const portLinks = [
     {
         "name": "Ro-Sham-Bo",
         "GitHub_Link": "https://github.com/mnorthup2207/project3",
-        "Url": "https://github.com/mnorthup2207/project3",
+        "Url": "https://infinite-earth-38608.herokuapp.com/",
         "description": "Ro-Sham-Bo is a single player vs computer game that plays on a rock paper scissors theme.",
         "portfolioImage": roshambo,
         "heading1": "Summary of Project",
